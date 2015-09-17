@@ -1,0 +1,6 @@
+[submodule "mowat-client"]
+	path = mowat-client
+	url = https://github.com/USADavid/mowat-client.git
+[submodule "mowat-server"]
+	path = mowat-server
+	url = https://github.com/USADavid/mowat-server.git
